@@ -1,0 +1,1 @@
+This repository is intended for providing a default OAuth 2.0 callback endpoint (redirect URL) for the API Tester extension in VS Code. See the [API Tester repository](https://github.com/lien-hung/api-tester) for more information.
