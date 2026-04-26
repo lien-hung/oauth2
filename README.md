@@ -1,1 +1,1 @@
-This repository is intended for providing a default OAuth 2.0 callback endpoint (redirect URL) for the API Tester extension in VS Code. See the [API Tester repository](https://github.com/lien-hung/api-tester) for more information.
+This repository is intended for providing a default OAuth 2.0 callback endpoint (redirect URL) for the REST Forge extension in VS Code. See the [repository](https://github.com/lien-hung/rest-forge) for more information.
